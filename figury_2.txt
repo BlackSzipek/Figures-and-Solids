@@ -1,0 +1,20 @@
+<pole=6>
+<prostokat>
+2 3
+</prostokat>
+</pole>
+<pole=2>
+<trojkat>
+1 4
+</trojkat>
+</pole>
+<pole=10>
+<trapez>
+2 3 4
+</trapez>
+</pole>
+<pole=12.56>
+<kolo>
+2
+</kolo>
+</pole>

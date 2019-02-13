@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projekt_2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projekt_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projekt_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Bryla.cpp" />
+		<Unit filename="Bryla.h" />
+		<Unit filename="Bryla_Obrotowa.cpp" />
+		<Unit filename="Bryla_Obrotowa.h" />
+		<Unit filename="Fabryka.cpp" />
+		<Unit filename="Fabryka.h" />
+		<Unit filename="FileNotFoundException.cpp" />
+		<Unit filename="FileNotFoundException.h" />
+		<Unit filename="Graniastoslup.cpp" />
+		<Unit filename="Graniastoslup.h" />
+		<Unit filename="Kolo.cpp" />
+		<Unit filename="Kolo.h" />
+		<Unit filename="Ostroslup.cpp" />
+		<Unit filename="Ostroslup.h" />
+		<Unit filename="Podstawa.cpp" />
+		<Unit filename="Podstawa.h" />
+		<Unit filename="Prostokat.cpp" />
+		<Unit filename="Prostokat.h" />
+		<Unit filename="Stozek.cpp" />
+		<Unit filename="Stozek.h" />
+		<Unit filename="Trapez.cpp" />
+		<Unit filename="Trapez.h" />
+		<Unit filename="Trojkat.cpp" />
+		<Unit filename="Trojkat.h" />
+		<Unit filename="VectorIsEmptyException.cpp" />
+		<Unit filename="VectorIsEmptyException.h" />
+		<Unit filename="Walec.cpp" />
+		<Unit filename="Walec.h" />
+		<Unit filename="WrongDataException.cpp" />
+		<Unit filename="WrongDataException.h" />
+		<Unit filename="WrongInputException.cpp" />
+		<Unit filename="WrongInputException.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
